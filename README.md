@@ -1,15 +1,15 @@
 # Hi, I'm Nandni Nirmal! 👋 
 
 ### 🎓 Computer Science Engineering Student @ VIT Bhopal University
-[cite_start]I am a results-driven B.Tech student (2024-2028) focused on bridging the gap between high-performance AI models and intuitive user experiences[cite: 6, 11]. [cite_start]Currently expanding my global perspective by learning Japanese[cite: 35].
+I am a results-driven B.Tech student (2024-2028) focused on bridging the gap between high-performance AI models and intuitive user experiences. Currently expanding my global perspective by learning Japanese.
 
 ---
 
 ### 🚀 Technical Spotlight
-- [cite_start]**AI & Deep Learning:** Experienced in building Brain Tumour Detection systems using CNN, DNN, and VGG-16 architectures[cite: 29].
-- [cite_start]**Full-Stack Development:** Proficient in C++, Java, and Python with experience in React and Node.js[cite: 7].
-- [cite_start]**Creative Design:** Skilled in UI/UX, Digital Design, and Canva[cite: 40].
-- [cite_start]**Cloud & Data:** Certified in Cloud Computing (NPTEL/AWS) and advanced SQL[cite: 18, 19, 20].
+- **AI & Deep Learning:** Experienced in building Brain Tumour Detection systems using CNN, DNN, and VGG-16 architectures.
+- **Full-Stack Development:** Proficient in C++, Java, and Python with experience in React and Node.js.
+- **Creative Design:** Skilled in UI/UX, Digital Design, and Canva.
+- **Cloud & Data:** Certified in Cloud Computing (NPTEL/AWS) and advanced SQL.
 
 ---
 
@@ -30,9 +30,9 @@
 ---
 
 ### 🔬 Key Projects
-* [cite_start]**Brain Tumour Detection:** Hybrid CNN+DNN and Transformer models for medical imaging[cite: 29].
-* [cite_start]**Library Management System:** A C++ console-based system utilizing file handling[cite: 25, 26].
-* [cite_start]**Online Café Finder:** A responsive web application built with HTML, CSS, and JS[cite: 30, 31].
+**Brain Tumour Detection:** Hybrid CNN+DNN and Transformer models for medical imaging[cite: 29].
+**Library Management System:** A C++ console-based system utilizing file handling[cite: 25, 26].
+**Online Café Finder:** A responsive web application built with HTML, CSS, and JS[cite: 30, 31].
 
 ---
 
@@ -45,6 +45,6 @@
 ---
 
 ### 📫 Connect with Me
-- [cite_start]**LinkedIn:** [nandni-nirmal](https://www.linkedin.com/in/nandni-nirmal-531a36324/) [cite: 4]
-- [cite_start]**Email:** [nandninirmal4@gmail.com](mailto:nandninirmal4@gmail.com) [cite: 3]
-- [cite_start]**Interests:** Photography, Sketching, and Badminton [cite: 40, 41, 42]
+- **LinkedIn:** [nandni-nirmal](https://www.linkedin.com/in/nandni-nirmal-531a36324/) [cite: 4]
+- **Email:** [nandninirmal4@gmail.com](mailto:nandninirmal4@gmail.com) [cite: 3]
+- **Interests:** Photography, Sketching, and Badminton [cite: 40, 41, 42]
