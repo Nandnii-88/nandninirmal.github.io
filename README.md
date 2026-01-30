@@ -1,50 +1,71 @@
-# Hi, I'm Nandni Nirmal! 👋 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=glass&color=auto&height=280&section=header&text=Nandni%20Nirmal&fontSize=80&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20@%20VIT%20Bhopal&descAlignY=51&descSize=20" />
+</p>
 
-### 🎓 Computer Science Engineering Student @ VIT Bhopal University
-I am a results-driven B.Tech student (2024-2028) focused on bridging the gap between high-performance AI models and intuitive user experiences. Currently expanding my global perspective by learning Japanese.
+<p align="center">
+  <a href="https://www.linkedin.com/in/nandni-nirmal-531a36324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nandninirmal4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
-
-### 🚀 Technical Spotlight
-- **AI & Deep Learning:** Experienced in building Brain Tumour Detection systems using CNN, DNN, and VGG-16 architectures.
-- **Full-Stack Development:** Proficient in C++, Java, and Python with experience in React and Node.js.
-- **Creative Design:** Skilled in UI/UX, Digital Design, and Canva.
-- **Cloud & Data:** Certified in Cloud Computing (NPTEL/AWS) and advanced SQL.
-
----
-
-### 🛠 Tech Stack
-
-**Programming & Databases**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
-**Web & Tools**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### 👩‍💻 About Me
+- 🎓 **Education:** 2nd Year B.Tech in Computer Science Engineering at **VIT Bhopal University** (2024-2028).
+- 🤖 **Passions:** Deeply interested in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**[cite: 18, 29].
+- 🎨 **Creative Side:** Experienced in **UI/UX Design**, **Canva**, and Digital Art.
+- 🌐 **Global Learner:** Currently learning **Japanese** to expand my horizons[cite: 35].
+- 🚀 **Goal:** Creating optimized, real-world solutions through code and design[cite: 8].
 
 ---
 
-### 🔬 Key Projects
-**Brain Tumour Detection:** Hybrid CNN+DNN and Transformer models for medical imaging[cite: 29].
-**Library Management System:** A C++ console-based system utilizing file handling[cite: 25, 26].
-**Online Café Finder:** A responsive web application built with HTML, CSS, and JS[cite: 30, 31].
+### 🛠 Technical Toolbox
 
----
-
-### 📊 GitHub Stats
+**Core Languages & Databases**
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Nandnii-88&show_icons=true&theme=tokyonight" alt="Nandni's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandnii-88&layout=compact&theme=tokyonight" alt="Nandni's Top Langs" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,c,html,css,mysql,sqlite" />
+</p>
+
+**Frameworks & AI/ML**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch" />
+</p>
+
+**Design & Productivity**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,canva,vscode,git,github" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn:** [nandni-nirmal](https://www.linkedin.com/in/nandni-nirmal-531a36324/) [cite: 4]
-- **Email:** [nandninirmal4@gmail.com](mailto:nandninirmal4@gmail.com) [cite: 3]
-- **Interests:** Photography, Sketching, and Badminton [cite: 40, 41, 42]
+### 🔬 Featured Projects
+- **Brain Tumour Detection:** Developed a system using **CNN, DNN, and VGG-16** architectures for medical image analysis.
+- **Library Management System:** A robust **C++** application using file handling for inventory and user records[cite: 25, 26].
+- **Online Café Finder:** A responsive web platform built with **HTML, CSS, and JS** to explore local venues[cite: 30, 31].
+- **Portfolio Website:** A personal space to showcase my journey and technical skills[cite: 23, 24].
+
+---
+
+### 🏅 Certifications
+- **AI & ML / Python / Java:** Vityarthi.
+- **Cloud Computing & Java:** NPTEL.
+- **Advanced SQL:** HackerRank.
+- **Data Analytics Simulation:** TATA (Forage).
+- **AWS Cloud Computing:** AWS Certification.
+
+---
+
+### 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandnii-88&show_icons=true&theme=tokyonight&rank_icon=github" alt="Nandni's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandnii-88&layout=compact&theme=tokyonight" alt="Nandni's Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandnii-88&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <i>"Passionate problem solver, agile team player, and continuous learner." </i>
+</p>
